@@ -1,2 +1,4 @@
 name: Test Jekyll Blog
 markdown: kramdown
+
+theme: jekyll-theme-leap-day
