@@ -1,4 +1,4 @@
 name: Test Jekyll Blog
 markdown: kramdown
-remote_theme: fongandrew/hydeout
+theme: jekyll-theme-time-machine
 sidebar_home_link: true
