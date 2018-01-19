@@ -1,3 +1,4 @@
 name: Test Jekyll Blog
 markdown: kramdown
 remote_theme: fongandrew/hydeout
+sidebar_home_link: true
