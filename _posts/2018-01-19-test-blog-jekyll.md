@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Test Blog Jekyll Blog"
 date: 2018-01-19
 ---
