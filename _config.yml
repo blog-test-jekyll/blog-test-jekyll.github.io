@@ -1,4 +1,3 @@
 name: Test Jekyll Blog
 markdown: kramdown
-theme: jekyll-theme-time-machine
 sidebar_home_link: true
