@@ -1,3 +1,5 @@
 name: Test Jekyll Blog
 markdown: kramdown
 sidebar_home_link: true
+
+theme: jekyll-theme-cayman
